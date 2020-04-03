@@ -1,0 +1,23 @@
+{
+  "editor.autoClosingBrackets": "always",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.enable": true,
+  "files.autoSave": "off",
+  "git.autofetch": true,
+  "window.zoomLevel": 0,
+  "sqltools.connections": [
+    {
+      "database": "blog",
+      "dialect": "PostgreSQL",
+      "name": "localhost",
+      "password": "changeme",
+      "port": 5432,
+      "server": "localhost",
+      "username": "postgres"
+    }
+  ]
+}
